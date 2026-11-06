@@ -1,2 +1,0 @@
-numbers = int(input("put numbers: "))
-print(numbers)
